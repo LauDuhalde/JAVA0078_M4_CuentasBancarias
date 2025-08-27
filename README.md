@@ -23,27 +23,33 @@ Este proyecto simula un sistema de cuentas bancarias donde se pueden crear perso
 ## Ejemplo de salida
 
 ```
+Depósito exitoso
 Saldo: 200000.0
-Saldo: 0.0
+Saldo insuficiente
+Saldo: 200000.0
 ---------------------------
+Retiro exitoso
 Saldo: 100000.0
+Depósito exitoso
 Saldo: 300000.0
 ---------------------------
+Depósito exitoso
 Saldo: 500000.0
+Retiro exitoso
 Saldo: 0.0
 ---------------------------
 Cantidad total de cuentas: 3
-Titular:
+Titular: 
 Nombre: Anastasia. Edad: 28.
-Numero de cuenta: 123456
-Saldo: 0.0
-Titular:
+Número de cuenta: 326299
+Saldo: 200000.0
+Titular: 
 Nombre: Braulio. Edad: 35.
-Numero de cuenta: 234567
+Número de cuenta: 286342
 Saldo: 300000.0
-Titular:
+Titular: 
 Nombre: Camilo. Edad: 47.
-Numero de cuenta: 345678
+Número de cuenta: 806682
 Saldo: 0.0
 ```
 
